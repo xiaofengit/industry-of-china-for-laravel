@@ -42,6 +42,10 @@ Run the following command to seed data:
 
 `php artisan db:seed --class="Database\Seeders\IndustrySeeder"`
 
+Or
+import the data from sql file: 
+`xiaofengit/industry-of-china-for-laravel/data/insert_industry.sql`
+
 
 ## License
 It's open-sourced software licensed under the MIT license.
