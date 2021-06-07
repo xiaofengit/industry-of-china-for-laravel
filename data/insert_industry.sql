@@ -329,7 +329,7 @@ insert into industries (ID, INDUSTRY_ID, NAME, PARENT_ID, LEVEL_TYPE, DESCRIPTIO
 values (110, '0711', '陆地石油开采', '071', 3, null);
 
 insert into industries (ID, INDUSTRY_ID, NAME, PARENT_ID, LEVEL_TYPE, DESCRIPTION)
-values (111, '0711', '海洋石油开采', '071', 3, null);
+values (111, '0712', '海洋石油开采', '071', 3, null);
 
 insert into industries (ID, INDUSTRY_ID, NAME, PARENT_ID, LEVEL_TYPE, DESCRIPTION)
 values (112, '072', '天然气开采', '07', 2, null);
